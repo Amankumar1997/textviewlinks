@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">CustomLinksTextView</string>
+    <string name="links"><a href="https://www.google.com/">Tap here to open Link</a></string>
+</resources>
